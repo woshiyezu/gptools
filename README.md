@@ -37,7 +37,7 @@ repositories {
 }
 ```
 ## Author
-Yezu 葉子
+Yezu Tanaka (田中葉子)
 
 ## License
 gptools is available under the MIT license. See the LICENSE file for more info.
